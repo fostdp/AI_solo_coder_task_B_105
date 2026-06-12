@@ -1,0 +1,312 @@
+﻿cargo :    Compiling windows-sys v0.61.2
+所在位置 行:1 字符: 89
++ ... I_solo_coder_task_B_105\backend ; cargo test --workspace 2>&1 | Out-F ...
++                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (   Compiling windows-sys v0.61.2: 
+   String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   Compiling parking_lot_core v0.9.12
+   Compiling matrixmultiply v0.3.10
+   Compiling jobserver v0.1.34
+   Compiling getrandom v0.4.2
+   Compiling num-integer v0.1.46
+   Compiling thiserror v1.0.69
+   Compiling num-complex v0.4.6
+   Compiling icu_locale_core v2.2.0
+   Compiling parking_lot v0.12.5
+   Compiling cc v1.2.63
+   Compiling num-bigint v0.4.6
+   Compiling icu_collections v2.2.0
+   Compiling simba v0.8.1
+   Compiling ndarray v0.15.6
+   Compiling rand v0.10.1
+   Compiling num-iter v0.1.45
+   Compiling aho-corasick v1.1.4
+   Compiling num-bigint v0.3.3
+   Compiling fenris-nested-vec v0.0.1
+   Compiling rand_chacha v0.9.0
+   Compiling fenris-paradis v0.0.3
+   Compiling kdtree v0.7.0
+   Compiling quick-xml v0.22.0
+   Compiling num-rational v0.4.2
+   Compiling num-rational v0.3.2
+   Compiling stringprep v0.1.5
+   Compiling brotli v8.0.3
+   Compiling time v0.3.47
+   Compiling rstar v0.10.0
+   Compiling windows_x86_64_gnu v0.48.5
+   Compiling derive_more v2.1.1
+   Compiling serde_urlencoded v0.7.1
+   Compiling regex-automata v0.4.14
+   Compiling num v0.3.1
+   Compiling num v0.4.3
+   Compiling mshio v0.4.2
+   Compiling zstd-sys v2.0.16+zstd.1.5.7
+   Compiling lzma-sys v0.1.20
+   Compiling local-channel v0.1.5
+   Compiling ndarray v0.16.1
+   Compiling sha1 v0.11.0
+   Compiling sha2 v0.11.0
+   Compiling md-5 v0.11.0
+   Compiling hmac v0.13.0
+   Compiling unicase v2.9.0
+   Compiling siphasher v1.0.3
+   Compiling try-lock v0.2.5
+   Compiling language-tags v0.3.2
+   Compiling fallible-iterator v0.2.0
+   Compiling foldhash v0.1.5
+   Compiling mime_guess v2.0.5
+   Compiling sprs v0.11.1
+   Compiling ndarray-stats v0.5.1
+   Compiling phf_shared v0.13.1
+   Compiling want v0.3.1
+   Compiling windows-targets v0.48.5
+   Compiling actix-web-codegen v4.3.0
+   Compiling nalgebra v0.32.6
+   Compiling icu_provider v2.2.0
+   Compiling cookie v0.16.2
+   Compiling mio v1.2.1
+   Compiling socket2 v0.6.4
+   Compiling tempfile v3.27.0
+   Compiling schannel v0.1.29
+   Compiling ndarray-rand v0.15.0
+   Compiling http-body v0.4.6
+   Compiling postgres-protocol v0.6.11
+   Compiling icu_normalizer v2.2.0
+   Compiling icu_properties v2.2.0
+   Compiling rusty-fork v0.3.1
+   Compiling regex v1.12.4
+   Compiling chrono v0.4.45
+   Compiling lazy_static v1.5.0
+   Compiling proptest v1.11.0
+   Compiling native-tls v0.2.18
+   Compiling tokio v1.52.3
+   Compiling tower-service v0.3.3
+   Compiling impl-more v0.1.9
+   Compiling linfa v0.7.1
+   Compiling actix-router v0.5.4
+   Compiling phf v0.13.1
+   Compiling windows-sys v0.48.0
+   Compiling base64 v0.21.7
+   Compiling whoami v2.1.2
+   Compiling protobuf v2.28.0
+   Compiling v_htmlescape v0.15.8
+   Compiling linfa-nn v0.7.2
+   Compiling postgres-types v0.2.13
+   Compiling linfa-kernel v0.7.1
+   Compiling sharded-slab v0.1.7
+   Compiling matchers v0.2.0
+   Compiling rustls-pemfile v1.0.4
+   Compiling nu-ansi-term v0.50.3
+   Compiling gp_termination v0.1.0 (D:\SOLO-2\AI_solo_coder_task_B_105\backend\
+crates\gp_termination)
+   Compiling peg_advection v0.1.0 (D:\SOLO-2\AI_solo_coder_task_B_105\backend\c
+rates\peg_advection)
+   Compiling stability_assess v0.1.0 (D:\SOLO-2\AI_solo_coder_task_B_105\backen
+d\crates\stability_assess)
+   Compiling tracing-log v0.2.0
+   Compiling sync_wrapper v0.1.2
+   Compiling http-range v0.1.5
+   Compiling ipnet v2.12.0
+   Compiling uuid v1.23.3
+   Compiling tracing-subscriber v0.3.23
+   Compiling dotenvy v0.15.7
+   Compiling idna_adapter v1.2.2
+   Compiling idna v1.1.0
+   Compiling url v2.5.8
+   Compiling winreg v0.50.0
+   Compiling prometheus v0.13.4
+   Compiling fenris-traits v0.0.2
+   Compiling nalgebra-sparse v0.9.0
+   Compiling fenris-optimize v0.0.3
+   Compiling fenris-geometry v0.0.6
+   Compiling zstd-safe v7.2.4
+   Compiling fenris-sparse v0.0.5
+   Compiling tokio-util v0.7.18
+   Compiling actix-rt v2.11.0
+   Compiling tokio-native-tls v0.3.1
+   Compiling deadpool-runtime v0.1.4
+   Compiling deadpool v0.10.0
+   Compiling zstd v0.13.3
+   Compiling actix-server v2.6.0
+   Compiling xz2 v0.1.7
+   Compiling vtkio v0.6.3
+   Compiling h2 v0.3.27
+   Compiling actix-codec v0.5.2
+   Compiling tokio-postgres v0.7.17
+   Compiling deadpool-postgres v0.12.1
+   Compiling fenris v0.0.33
+   Compiling actix-http v3.12.1
+   Compiling hyper v0.14.32
+   Compiling fem_stress v0.1.0 (D:\SOLO-2\AI_solo_coder_task_B_105\backend\crat
+es\fem_stress)
+   Compiling actix-web v4.13.0
+   Compiling hyper-tls v0.5.0
+   Compiling reqwest v0.11.27
+   Compiling actix-cors v0.7.1
+   Compiling actix-files v0.6.10
+   Compiling lacquer-monitor-backend v0.1.0 (D:\SOLO-2\AI_solo_coder_task_B_105
+\backend)
+warning: unused imports: `DangerZone`, `FemThreadPool`, and `StressResult`
+ --> src\dehydration_stress.rs:3:5
+  |
+3 |     StressResult,
+  |     ^^^^^^^^^^^^
+4 |     DangerZone,
+  |     ^^^^^^^^^^
+5 |     FemThreadPool,
+  |     ^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` (part of `#[warn(unused)]`) on by default
+
+warning: unused import: `ConcentrationFieldResult`
+ --> src\convection_diffusion.rs:3:5
+  |
+3 |     ConcentrationFieldResult,
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused imports: `CycleDataPoint`, `CycleSummary`, and `DimensionalStab
+ilityResult`
+ --> src\dimensional_stability.rs:3:5
+  |
+3 |     CycleDataPoint,
+  |     ^^^^^^^^^^^^^^
+4 |     CycleSummary,
+  |     ^^^^^^^^^^^^
+5 |     DimensionalStabilityResult,
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: struct `PenetrationPrediction` is never constructed
+  --> src\models.rs:70:12
+   |
+70 | pub struct PenetrationPrediction {
+   |            ^^^^^^^^^^^^^^^^^^^^^
+   |
+   = note: `#[warn(dead_code)]` (part of `#[warn(unused)]`) on by default
+
+warning: method `config` is never used
+  --> src\nbiot_ingest.rs:29:12
+   |
+24 | impl NbiotIngestService {
+   | ----------------------- method in this implementation
+...
+29 |     pub fn config(&self) -> &NbIotConfig {
+   |            ^^^^^^
+
+warning: methods `with_crusting`, `predict_with_depth_profile`, and `moisture_a
+t_depth` are never used
+   --> src\moisture_diffusion.rs:18:12
+    |
+  9 | impl MoistureDiffusionService {
+    | ----------------------------- methods in this implementation
+...
+ 18 |     pub fn with_crusting(mut self, alpha: f64, threshold: f64) -> Self {
+    |            ^^^^^^^^^^^^^
+...
+116 |     pub fn predict_with_depth_profile(
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+200 |     pub fn moisture_at_depth(&self, depth: f64, time_hours: f64, initial_
+moisture: f64, surface_moisture: f64) -> f64 {
+    |            ^^^^^^^^^^^^^^^^^
+
+warning: methods `config` and `penetration_velocity` are never used
+  --> src\peg_penetration.rs:13:12
+   |
+ 8 | impl PegPenetrationService {
+   | -------------------------- methods in this implementation
+...
+13 |     pub fn config(&self) -> &PenetrationConfig {
+   |            ^^^^^^
+...
+57 |     pub fn penetration_velocity(&self, pressure_diff: f64, current_depth: 
+f64) -> f64 {
+   |            ^^^^^^^^^^^^^^^^^^^^
+
+warning: method `get_recent_alerts` is never used
+   --> src\alert_broker.rs:293:18
+    |
+ 24 | impl AlertBroker {
+    | ---------------- method in this implementation
+...
+293 |     pub async fn get_recent_alerts(&self, limit: i64) -> Result<Vec<Alert
+>, Box<dyn std::error::Error + Send + Sync>> {
+    |                  ^^^^^^^^^^^^^^^^^
+
+warning: fields `http_request_duration_seconds`, `http_active_requests`, `db_co
+nnections_active`, and `db_connections_idle` are never read
+  --> src\metrics.rs:9:9
+   |
+ 7 | pub struct Metrics {
+   |            ------- fields in this struct
+ 8 |     pub http_requests_total: IntCounter,
+ 9 |     pub http_request_duration_seconds: Histogram,
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+10 |     pub http_active_requests: IntGauge,
+   |         ^^^^^^^^^^^^^^^^^^^^
+...
+14 |     pub db_connections_active: IntGauge,
+   |         ^^^^^^^^^^^^^^^^^^^^^
+15 |     pub db_connections_idle: IntGauge,
+   |         ^^^^^^^^^^^^^^^^^^^
+
+warning: `lacquer-monitor-backend` (bin "lacquer-monitor-backend" test) generat
+ed 9 warnings (run `cargo fix --bin "lacquer-monitor-backend" -p lacquer-monito
+r-backend --tests` to apply 3 suggestions)
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 1m 34s
+warning: the following packages contain code that will be rejected by a future 
+version of Rust: nom v3.2.1, quick-xml v0.22.0
+note: to see what the problems were, use the option `--future-incompat-report`,
+ or run `cargo report future-incompatibilities --id 1`
+     Running unittests src\lib.rs (target\debug\deps\fem_stress-0c242feee6699e4
+5.exe)
+
+running 12 tests
+test tests::test_fenris_mesh_creation ... ok
+test tests::test_single_element_boundary ... ok
+test tests::test_uniform_moisture_zero_stress ... ok
+test tests::test_fem_thread_pool ... ok
+test tests::test_empty_moisture_anomaly ... ok
+test tests::test_boundary_zero_moisture_gradient ... ok
+test tests::test_adaptive_mesh_convergence ... ok
+test tests::test_danger_zone_identification ... ok
+test tests::test_high_gradient_region_has_max_stress ... ok
+test tests::test_stress_basic ... ok
+test tests::test_extreme_tensile_strength_boundary ... ok
+test tests::test_stress_increases_with_gradient ... ok
+
+test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.09s
+
+     Running unittests src\lib.rs (target\debug\deps\gp_termination-febb416ffd3
+25a3e.exe)
+
+running 12 tests
+test tests::test_convergence_status ... ok
+test tests::test_empty_history_anomaly ... ok
+test tests::test_feature_importance ... ok
+test tests::test_slope_calculation ... ok
+test tests::test_min_training_points_boundary ... ok
+test tests::test_patience_early_stopping ... ok
+test tests::test_termination_criteria ... ok
+test tests::test_gpr_basic ... ok
+test tests::test_predict_batch ... ok
+test tests::test_multidimensional_features ... ok
+test tests::test_training_and_prediction ... ok
+test tests::test_log_likelihood_optimization ... ok
+
+test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src\main.rs (target\debug\deps\lacquer_monitor_backend-d
+63d5af1dbe7cb1f.exe)
+
+running 9 tests
+test moisture_diffusion::tests::test_concentration_dependent_diffusion ... ok
+test peg_penetration::tests::test_penetration_increases_with_time ... ok
+test moisture_diffusion::tests::test_edge_case_zero_diffusion ... ok
+test peg_penetration::tests::test_darcy_law ... ok
+test peg_penetration::tests::test_flow_rate_positive ... ok
+test moisture_diffusion::tests::test_edge_case_single_point ... ok
+test moisture_diffusion::tests::test_crusting_slows_early_dehydration ... ok
+test moisture_diffusion::tests::test_fickian_diffusion ... ok
+test moisture_diffusion::tests::test_edge_case_zero_thickness has been running for over 60 seconds
